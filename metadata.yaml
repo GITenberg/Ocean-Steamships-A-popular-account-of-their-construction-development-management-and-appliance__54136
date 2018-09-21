@@ -1,0 +1,59 @@
+_repo: Ocean-Steamships-A-popular-account-of-their-construction-development-management-and-appliance__54136
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Seaton, A. E. (Albert Edward)
+    alias: Seaton, Albert Edward
+    birthdate: 1848
+    deathdate: 1930
+    gutenberg_agent_id: '47726'
+    url: http://www.gutenberg.org/2009/agents/47726
+  - agent_name: Hunt, Ridgely
+    birthdate: 1870
+    gutenberg_agent_id: '47724'
+    url: http://www.gutenberg.org/2009/agents/47724
+  - agent_name: Kelley, J. D. Jerrold (James Douglas Jerrold)
+    aliases:
+    - Kelley, J. D. J.
+    - Kelley, James Douglas Jerrold
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '25155'
+    url: http://www.gutenberg.org/2009/agents/25155
+  - agent_name: Rideing, William H. (William Henry)
+    birthdate: 1853
+    deathdate: 1918
+    gutenberg_agent_id: '47725'
+    url: http://www.gutenberg.org/2009/agents/47725
+  - agent_name: Gould, John H.
+    gutenberg_agent_id: '47723'
+    url: http://www.gutenberg.org/2009/agents/47723
+  - agent_name: Chadwick, French Ensor
+    alias: Chadwick, F. E. (French Ensor)
+    birthdate: 1844
+    deathdate: 1919
+    gutenberg_agent_id: '47722'
+    url: http://www.gutenberg.org/2009/agents/47722
+description: ''
+gutenberg_issued: '2017-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steamboats'
+- !lcc 'VM'
+- !lcsh 'Steamboat lines'
+- !lcsh 'Steam-navigation -- History'
+- GITenberg
+tableOfContents: The development of the steamship, by F. E. Chadwick -- Speed in ocean
+  steamers, by A. E. Seaton -- The building of an "ocean greyhound," by W. H. Rideing
+  -- Ocean passenger travel, by J. H. Gould -- The ship's company, by J. D. J. Kelley
+  -- Safety on the Atlantic, by W. H. Rideing -- The ocean steamship as a freight
+  carrier, by J. H. Gould -- Steamship lines of the world, by R. Hunt.
+title: "Ocean Steamships\r\nA popular account of their construction, development,\
+  \ management and appliances"
+url: http://www.gutenberg.org/ebooks/54136
