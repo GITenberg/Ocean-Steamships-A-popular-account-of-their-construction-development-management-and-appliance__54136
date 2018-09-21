@@ -1,5 +1,8 @@
 _repo: Ocean-Steamships-A-popular-account-of-their-construction-development-management-and-appliance__54136
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54136-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Seaton, A. E. (Albert Edward)
@@ -35,6 +38,8 @@ creator:
     gutenberg_agent_id: '47722'
     url: http://www.gutenberg.org/2009/agents/47722
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54136#Ocean-Steamships-A-popular-account-of-their-construction-development-management-and-appliance_
 gutenberg_issued: '2017-02-08'
 gutenberg_type: Text
 identifiers:
